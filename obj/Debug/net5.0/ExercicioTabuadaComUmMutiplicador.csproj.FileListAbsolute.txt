@@ -1,0 +1,16 @@
+C:\xampp\htdocs\udemy\ExercicioTabuadaComUmMutiplicador\bin\Debug\net5.0\ExercicioTabuadaComUmMutiplicador.exe
+C:\xampp\htdocs\udemy\ExercicioTabuadaComUmMutiplicador\bin\Debug\net5.0\ExercicioTabuadaComUmMutiplicador.deps.json
+C:\xampp\htdocs\udemy\ExercicioTabuadaComUmMutiplicador\bin\Debug\net5.0\ExercicioTabuadaComUmMutiplicador.runtimeconfig.json
+C:\xampp\htdocs\udemy\ExercicioTabuadaComUmMutiplicador\bin\Debug\net5.0\ExercicioTabuadaComUmMutiplicador.runtimeconfig.dev.json
+C:\xampp\htdocs\udemy\ExercicioTabuadaComUmMutiplicador\bin\Debug\net5.0\ExercicioTabuadaComUmMutiplicador.dll
+C:\xampp\htdocs\udemy\ExercicioTabuadaComUmMutiplicador\bin\Debug\net5.0\ref\ExercicioTabuadaComUmMutiplicador.dll
+C:\xampp\htdocs\udemy\ExercicioTabuadaComUmMutiplicador\bin\Debug\net5.0\ExercicioTabuadaComUmMutiplicador.pdb
+C:\xampp\htdocs\udemy\ExercicioTabuadaComUmMutiplicador\obj\Debug\net5.0\ExercicioTabuadaComUmMutiplicador.csproj.AssemblyReference.cache
+C:\xampp\htdocs\udemy\ExercicioTabuadaComUmMutiplicador\obj\Debug\net5.0\ExercicioTabuadaComUmMutiplicador.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\udemy\ExercicioTabuadaComUmMutiplicador\obj\Debug\net5.0\ExercicioTabuadaComUmMutiplicador.AssemblyInfoInputs.cache
+C:\xampp\htdocs\udemy\ExercicioTabuadaComUmMutiplicador\obj\Debug\net5.0\ExercicioTabuadaComUmMutiplicador.AssemblyInfo.cs
+C:\xampp\htdocs\udemy\ExercicioTabuadaComUmMutiplicador\obj\Debug\net5.0\ExercicioTabuadaComUmMutiplicador.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\udemy\ExercicioTabuadaComUmMutiplicador\obj\Debug\net5.0\ExercicioTabuadaComUmMutiplicador.dll
+C:\xampp\htdocs\udemy\ExercicioTabuadaComUmMutiplicador\obj\Debug\net5.0\ref\ExercicioTabuadaComUmMutiplicador.dll
+C:\xampp\htdocs\udemy\ExercicioTabuadaComUmMutiplicador\obj\Debug\net5.0\ExercicioTabuadaComUmMutiplicador.pdb
+C:\xampp\htdocs\udemy\ExercicioTabuadaComUmMutiplicador\obj\Debug\net5.0\ExercicioTabuadaComUmMutiplicador.genruntimeconfig.cache
